@@ -64,7 +64,7 @@ footer:
     color: "#ff0000"
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
-  copyright: "<a href='https://github.com/applecdn'>ShouShouRen</a>"
+  copyright: "<a href='https://github.com/ShouShouRen'>ShouShouRen</a>"
 
   # Powered by Hexo & NexT
   powered: true
@@ -124,7 +124,7 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
-  github: https://github.com/applecdn || fab fa-github
+  github: https://github.com/ShouShouRen || fab fa-github
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
