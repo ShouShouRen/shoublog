@@ -13,7 +13,7 @@ timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://shoublog.vercel.app/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -111,3 +111,8 @@ deploy:
 #Sitemap
 sitemap:
   path: sitemap.xml
+nofollow:
+  enable: true
+  exclude: # 不加上 nofollow 的友情連結可以放在這邊。
+    - exclude1.com
+    - exclude2.com

@@ -451,7 +451,7 @@ font:
 # ---------------------------------------------------------------
 # SEO Settings
 # ---------------------------------------------------------------
-
+seo: true
 # Disable Baidu transformation on mobile devices.
 disable_baidu_transformation: false
 
