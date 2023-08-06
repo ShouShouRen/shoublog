@@ -86,7 +86,8 @@ NexT.utils = {
         ta.readOnly = false;
         var result = document.execCommand('copy');
         if (CONFIG.copycode.show_result) {
-          target.querySelector('i').className = result ? 'fa fa-check fa-fw' : 'fa fa-times fa-fw';
+          // target.querySelector('i').className = result ? 'fa fa-check fa-fw' : 'fa fa-times fa-fw';
+          target.querySelector('.copy-btn').textContent = result ? '已複製' : '複製';
         }
         ta.blur(); // For iOS
         target.blur();

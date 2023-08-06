@@ -67,7 +67,7 @@ NexT.utils = {
       const box = document.createElement('div');
       element.wrap(box);
       box.classList.add('highlight-container');
-      box.insertAdjacentHTML('beforeend', '<div class="copy-btn">複製</div>');
+      box.insertAdjacentHTML('beforeend', '<div class="copy-btn"><i class="fa-solid fa-copy fa-lg"></i></div>');
       var button = element.parentNode.querySelector('.copy-btn');
       button.addEventListener('click', event => {
         var target = event.currentTarget;
@@ -86,7 +86,7 @@ NexT.utils = {
         ta.readOnly = false;
         var result = document.execCommand('copy');
         if (CONFIG.copycode.show_result) {
-          target.querySelector('i').className = result ? 'fa fa-check fa-fw' : 'fa fa-times fa-fw';
+          target.querySelector('i').className = result ? 'fa fa-check fa-fw fa-lg' : 'fa fa-times fa-fw';
         }
         ta.blur(); // For iOS
         target.blur();
@@ -98,7 +98,7 @@ NexT.utils = {
       });
       button.addEventListener('mouseleave', event => {
         setTimeout(() => {
-          event.target.querySelector('i').className = 'fa fa-clipboard fa-fw';
+          event.target.querySelector('i').className = 'fa-solid fa-copy fa-lg';
         }, 300);
       });
     });
