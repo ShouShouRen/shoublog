@@ -164,7 +164,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /images/avatar.jpg
+  url: https://avatars.githubusercontent.com/u/86337159?s=400&u=325f6940b3c1b446e26c490dd23abacb71a878cc&v=4
   # If true, the avatar will be dispalyed in circle.
   rounded: false
   # If true, the avatar will be rotated with the cursor.
