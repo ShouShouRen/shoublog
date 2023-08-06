@@ -116,3 +116,7 @@ nofollow:
   exclude: # 不加上 nofollow 的友情連結可以放在這邊。
     - exclude1.com
     - exclude2.com
+
+donates:
+  type: buymeacoffee
+  url: https://www.buymeacoffee.com/shoublog
