@@ -1,7 +1,8 @@
 ---
 title: Git
 date: 2024-03-14 11:40:12
-tags:
+tags: git
+categories: git
 ---
 
 ## Cherry Pick
