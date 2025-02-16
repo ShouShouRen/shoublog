@@ -11,7 +11,7 @@ categories: TypeScript
 
 TypeScript 是 JavaScript 的超集（Superset），它為 JavaScript 添加了靜態型別檢查和其他現代程式設計功能。透過 TypeScript，開發者可以在編譯階段就發現潛在的錯誤，提升程式碼的品質、可維護性和可讀性。在本篇中，會介紹 TypeScript 中的變數宣告與型別系統。
 
----
+<!-- more -->
 
 # 變數與型別
 
@@ -85,7 +85,7 @@ console.log(products);
 ### 補充說明：
 
 - **可選屬性（Optional Properties）**：使用 `?` 來標記可選屬性，表示該屬性可以存在也可以不存在。
-- **型別別名（Type Aliases）**：如果物件結構較為複雜，可以使用 `type` 來定義型別別名，讓程式碼更易讀：
+- **型別別名（Type Aliases）**：如果物件結構較為複雜，可以使用 `type` 來定義型別別名，讓程式碼更易讀，在後面的章節也會再提到：
 
   ```typescript
   type Product = {
@@ -167,7 +167,3 @@ TypeScript 的型別系統不僅能幫助你在開發階段發現錯誤，還能
 - [TypeScript 官方文件](https://www.typescriptlang.org/docs/)
 - [TypeScript 型別推論與註記](https://www.typescriptlang.org/docs/handbook/type-inference.html)
 - [TypeScript 中的聯合型別與交叉型別](https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html)
-
-```
-
-```
