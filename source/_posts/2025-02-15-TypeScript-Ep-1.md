@@ -9,7 +9,7 @@ categories: TypeScript
 
 # 本篇重點
 
-TypeScript 是 JavaScript 的超集（Superset），它為 JavaScript 添加了靜態型別檢查和其他現代程式設計功能。透過 TypeScript，開發者可以在編譯階段就發現潛在的錯誤，提升程式碼的品質、可維護性和可讀性。在本篇中，會介紹 TypeScript 中的變數宣告與型別系統。
+TypeScript 是 JavaScript 的超集（Superset），它為 JavaScript 添加了靜態型別檢查和其他現代程式設計功能。透過 TypeScript，開發者可以在編譯階段就發現潛在的錯誤，提升程式碼的品質、可維護性和可讀性。在本篇中，會介紹 TypeScript 中的變數宣告與型別系統，包括 `number`、`string`、`boolean`、`any`、`unknown`、`void` 和 `never` 等型別。
 
 <!-- more -->
 
