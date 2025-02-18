@@ -11,6 +11,8 @@ categories: TypeScript
 
 在上一篇教學中，我們介紹了 TypeScript 中的函式、介面與型別別名，這些功能幫助我們更好的組織程式碼並提升型別安全性，接下來本我們繼續進一步探討 TypeScript 中的 **Enums（列舉）** 和 **Tuples（元組）**，它們能夠幫助你更精確地定義資料結構與型別。
 
+<!-- more -->
+
 ---
 
 ## Enums（列舉）
