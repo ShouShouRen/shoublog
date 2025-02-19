@@ -11,6 +11,8 @@ categories: TypeScript
 
 在上一篇教學中，我們介紹了 TypeScript 中的 Generics（泛型）、Type Guarding（型別守衛） 以及 ES6 Modules（模組系統），，接下來本我們繼續進一步探討 TypeScript 中的 **Decorators（裝飾器）**、**Namespaces（命名空間）** 以及 **Utility Types（實用型別）**。
 
+<!-- more -->
+
 ---
 
 ## Decorators（裝飾器）
