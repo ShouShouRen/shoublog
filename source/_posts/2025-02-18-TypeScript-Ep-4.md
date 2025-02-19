@@ -11,6 +11,8 @@ categories: TypeScript
 
 在上一篇教學中，我們介紹了 TypeScript 中的**Enums（列舉）** 和 **Tuples（元組）**，這些功能幫助，能夠幫助你更精確地定義資料結構與型別，接下來本我們繼續進一步探討 TypeScript 中的 Generics（泛型）、Type Guarding（型別守衛） 以及 ES6 Modules（模組系統）。
 
+<!-- more -->
+
 ---
 
 ## Generics（泛型）
