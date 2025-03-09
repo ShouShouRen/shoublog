@@ -7,5 +7,5 @@ Disallow: /vendors/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: https://shoublog.vercel.app/sitemap.xml
-Sitemap: https://shoublog.vercel.app/baidusitemap.xml
+Sitemap: https://shouren-blog.lanya.dev/sitemap.xml
+Sitemap: https://shouren-blog.lanya.dev/baidusitemap.xml

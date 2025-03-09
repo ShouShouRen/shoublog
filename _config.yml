@@ -6,14 +6,14 @@
 title: "瘦瘦仁的前端部落"
 subtitle: "技術分享與成長的天地"
 description: "歡迎來到瘦瘦仁的前端部落！這裡是我專注於網頁相關技術的網站。我熱愛探索前端開發的無限可能，並樂於與大家分享我的學習心得與成長過程。在這個部落格中，你將找到有關 HTML、CSS、JavaScript、Vue.js、Bootstrap、Tailwind 和 Nuxt.js 等前端技術的深入文章。不論你是初學者還是有經驗的開發者，這裡都有適合你的內容。讓我們一同踏上前端之旅，共同探索這個不斷進化的領域吧！"
-keywords: "瘦瘦仁的前端部落, 瘦瘦仁, 瘦仁, shouren blog, shouren-bolg.lanya.dev, ShouShouRen, 前端, 技術, 部落格, 網頁開發, HTML, CSS, JavaScript, Vue.js, Bootstrap, Tailwind, Nuxt.js"
+keywords: "瘦瘦仁的前端部落, 瘦瘦仁, 瘦仁, shouren blog, shouren-blog.lanya.dev, ShouShouRen, 前端, 技術, 部落格, 網頁開發, HTML, CSS, JavaScript, Vue.js, Bootstrap, Tailwind, Nuxt.js"
 author: ShouShouRen
 language: zh-TW
 timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://shouren-bolg.lanya.dev/
+url: https://shouren-blog.lanya.dev/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
